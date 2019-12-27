@@ -1,0 +1,15 @@
+{
+  "name": "hello-go-lambda",
+  "version": "1.0.0",
+  "description": "Starting from [version 1.26](https://github.com/serverless/serverless/releases/tag/v1.26.0) Serverless Framework includes two Golang templates:",
+  "main": "main.go",
+  "scripts": {
+    "build": "GOOS=linux go build -o bin/main",
+    "sls": "./node_modules/.bin/sls"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "serverless": "^1.60.4"
+  }
+}
