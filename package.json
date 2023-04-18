@@ -10,6 +10,6 @@
   "author": "",
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "serverless": "^3.25.1"
+    "serverless": "^3.30.1"
   }
 }
